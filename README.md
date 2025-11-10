@@ -25,7 +25,7 @@ Ensure the datasets and secseg folder is placed in the directory where you will 
 
 ## Open the Jupyter Notebook in Google Colab:
 
-Locate and download the file named SP_Public_Transport_Data_Analysis.ipynb in the repository.
+Locate and download the file named SP_Public_Transport_Data_Analysis_.ipynb in the repository.
 
 Open it in Google Colab [Here](https://colab.research.google.com).
 
@@ -39,7 +39,7 @@ A separate notebook is available to perform predictive analysis based on the pub
 
 To use the predictive model:
 
-1. Download the notebook named `SP_Public_Transport_Data_Analisys_prediction.ipynb` from this repository.
+1. Download the notebook named `SP_Public_Transport_Data_Analisys_predicao.ipynb` from this repository.
 
 2. Download the dataset required for the predictive model from the following link:
 [[ttps://drive.google.com/drive/folders/1EgNskZVkLbQ7Ev2rbd_Yjhj6NVZNCJdR?usp=drive_link](https://drive.google.com/drive/folders/1EgNskZVkLbQ7Ev2rbd_Yjhj6NVZNCJdR?usp=drive_link)]
